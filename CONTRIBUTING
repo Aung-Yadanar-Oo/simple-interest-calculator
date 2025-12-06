@@ -1,0 +1,43 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing to the Simple Interest Calculator project!
+
+## How to Contribute
+
+### Reporting Bugs
+1. Check if the bug is already reported in Issues
+2. If not, create a new issue with:
+   - Clear title and description
+   - Steps to reproduce
+   - Expected vs actual behavior
+   - Your environment (OS, bash version)
+
+### Suggesting Enhancements
+1. Use the Issues section
+2. Provide clear description of the enhancement
+3. Explain why this would be useful
+4. List any alternative solutions
+
+### Submitting Pull Requests
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Make your changes
+4. Test thoroughly
+5. Commit with clear messages: `git commit -m "Add feature: description"`
+6. Push to your fork: `git push origin feature/your-feature`
+7. Open a Pull Request with detailed description
+
+## Code Style
+- Use clear, readable variable names
+- Add comments for complex logic
+- Test your code before submitting
+- Follow bash best practices
+
+## Commit Message Guidelines
+- Use present tense ("Add feature" not "Added feature")
+- Use imperative mood ("Move cursor to..." not "Moves cursor to...")
+- Limit first line to 50 characters
+- Reference issues when applicable
+
+## License Agreement
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0.
