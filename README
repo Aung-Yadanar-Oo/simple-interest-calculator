@@ -1,0 +1,33 @@
+# Simple Interest Calculator
+
+## Overview
+This is a bash script that calculates simple interest for micro-finance applications. 
+It empowers low-income individuals by providing accurate financial calculations.
+
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Usage
+./simple-interest.sh <principal> <rate> <time>
+
+## Parameters
+- **principal**: The initial amount of money (in currency units)
+- **rate**: The annual interest rate (as a percentage)
+- **time**: The time period (in years)
+
+## Example
+./simple-interest.sh 1000 5 2
+Output: Simple Interest = 100
+
+## Requirements
+- Bash shell
+- Basic Unix/Linux environment
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+
+## Contributing
+We welcome contributions! Please see CONTRIBUTING.md for guidelines.
+
+## Code of Conduct
+Please review our CODE_OF_CONDUCT.md to understand our community standards.
